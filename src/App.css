@@ -1,0 +1,41 @@
+.white {
+  color: white;
+  text-shadow: 2px 2px 5px #34302f;
+}
+
+.Home {
+  /* put around the vertical center of page */
+  height: calc(100vh - 150px);
+  display: flex;
+  align-items: center;
+  color: white;
+  text-shadow: 2px 2px 5px #34302f;
+}
+
+/* .Navigation {
+  background-color: white;
+  border-bottom: 2px solid rgba(0, 0, 0, 0.125);
+} */
+
+.nav-link.active {
+  font-weight: bold;
+  color: black;
+}
+
+.search {
+  border-radius: 10px;
+  border-style: solid;
+  margin-left: 19vw;
+  width: 30vw;
+  margin-bottom: 30px;
+}
+
+.app {
+  background-image: url(./assets/background.png);
+  background-attachment: fixed;
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  height: 100%;
+}

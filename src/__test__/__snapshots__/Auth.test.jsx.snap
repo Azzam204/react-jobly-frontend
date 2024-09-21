@@ -1,0 +1,179 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="pt-5 container col-md-6 offset-md-3 col-lg-4 offset-lg-4"
+  >
+    <h3
+      class="mb-3 white"
+    >
+      Log In
+    </h3>
+    <div
+      class="card"
+    >
+      <div
+        class="card-body"
+      >
+        <form
+          class=""
+        >
+          <div
+            class="mb-3 mb-3"
+          >
+            <label
+              class="fw-bold form-label"
+              for="username"
+            >
+              Username
+            </label>
+            <input
+              class="form-control"
+              id="username"
+              name="username"
+              required=""
+              type="text"
+              value=""
+            />
+            <label
+              class="fw-bold form-label"
+              for="password"
+            >
+              Password
+            </label>
+            <input
+              autocomplete="on"
+              class="form-control"
+              id="password"
+              name="password"
+              required=""
+              type="password"
+              value=""
+            />
+            <div
+              class="d-grid gap-2 mt-3"
+            >
+              <button
+                class="btn btn-primary"
+              >
+                Submit
+              </button>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`matches snapshot 2`] = `
+<DocumentFragment>
+  <div
+    class="pt-5 container col-md-6 offset-md-3 col-lg-4 offset-lg-4"
+  >
+    <h3
+      class="mb-3 white"
+    >
+      Sign Up
+    </h3>
+    <div
+      class="card"
+    >
+      <div
+        class="card-body"
+      >
+        <form
+          class=""
+        >
+          <div
+            class="mb-3 mb-3"
+          >
+            <label
+              class="fw-bold form-label"
+              for="username"
+            >
+              Username
+            </label>
+            <input
+              class="form-control"
+              id="username"
+              name="username"
+              required=""
+              type="text"
+              value=""
+            />
+            <label
+              class="fw-bold form-label"
+              for="password"
+            >
+              Password
+            </label>
+            <input
+              autocomplete="on"
+              class="form-control"
+              id="password"
+              name="password"
+              required=""
+              type="password"
+              value=""
+            />
+            <label
+              class="fw-bold form-label"
+              for="firstName"
+            >
+              First name
+            </label>
+            <input
+              class="form-control"
+              id="firstName"
+              name="firstName"
+              required=""
+              type="text"
+              value=""
+            />
+            <label
+              class="fw-bold form-label"
+              for="lastName"
+            >
+              Last name
+            </label>
+            <input
+              class="form-control"
+              id="lastName"
+              name="lastName"
+              required=""
+              type="text"
+              value=""
+            />
+            <label
+              class="fw-bold form-label"
+              for="email"
+            >
+              Email
+            </label>
+            <input
+              class="form-control"
+              id="email"
+              name="email"
+              required=""
+              type="email"
+              value=""
+            />
+            <div
+              class="d-grid gap-2 mt-3"
+            >
+              <button
+                class="btn btn-primary"
+              >
+                Submit
+              </button>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
